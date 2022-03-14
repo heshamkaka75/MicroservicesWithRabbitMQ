@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RMQConsumer", "RMQConsumer\RMQConsumer.csproj", "{42F8015C-6233-43D9-8CC5-1ABD49E9FDBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42F8015C-6233-43D9-8CC5-1ABD49E9FDBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42F8015C-6233-43D9-8CC5-1ABD49E9FDBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42F8015C-6233-43D9-8CC5-1ABD49E9FDBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42F8015C-6233-43D9-8CC5-1ABD49E9FDBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B9ECA41-3F20-428E-B23A-C1927BEFF608}
+	EndGlobalSection
+EndGlobal
